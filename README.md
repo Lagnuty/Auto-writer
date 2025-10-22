@@ -46,7 +46,7 @@
 | Версия | Размер | Скачать |
 |--------|--------|----------|
 | **AutoTyper Pro v2.1** | ~15 MB | [📥 Скачать EXE](https://github.com/yourusername/autotyper/releases/latest) |
-| **AutoTyper Standard v1.5** | ~10 MB | [📥 Скачать EXE](https://github.com/Lagnuty/Auto-writer/releases/tag/relevantly) |
+| **AutoTyper Standard v1.5** | ~10 MB | [📥 Скачать EXE](https://github.com/Lagnuty/Auto-writer/releases/tag/non-relevantly) |
 
 ### Системные требования
 - **ОС:** Windows 7/10/11
