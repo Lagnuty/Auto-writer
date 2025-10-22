@@ -13,7 +13,8 @@
 ## 📸 Демонстрация
 
 ### Версия 1.5
-![Версия 1](https://i.postimg.cc/8538YFgK/Snimok-ekrana-2025-10-22-213420.png){:width="600px"}
+![Версия 1](https://i.postimg.cc/8538YFgK/Snimok-ekrana-2025-10-22-213420.png)
+<img src="https://i.postimg.cc/8538YFgK/Snimok-ekrana-2025-10-22-213420.png" width="600" alt="Версия 1">
 
 ### Версия 2.1
 ![Версия 2](https://via.placeholder.com/800x500/4A5568/FFFFFF?text=Автоматический+набор+текста+Стандарт)
